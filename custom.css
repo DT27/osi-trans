@@ -3,7 +3,7 @@ OsiTransparent theme - v2.0
 DT27 Base On OsiDark
 https://github.com/basvdijk/domoticz-osidark-theme
 */
-@import url(https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css);
 
 #holder, body, h2 {
     font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif
